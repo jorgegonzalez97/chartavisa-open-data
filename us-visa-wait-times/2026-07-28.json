@@ -1,0 +1,1696 @@
+{
+  "asOf": "2026-07-28",
+  "sourceLastUpdated": "2026-06-18",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html",
+  "unit": "months",
+  "unitNote": "As published by the U.S. Department of State: months are 30-day increments, half months are 15-day increments, including weekends and holidays. visitorVisaDays/avgWaitDays are that same figure expressed in days; null when the published value is non-numeric ('NA', '< 0.5 Month').",
+  "posts": [
+    {
+      "post": "Abidjan",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": 165,
+      "avgWaitRaw": "5.5 Months"
+    },
+    {
+      "post": "Abu Dhabi",
+      "visitorVisaDays": 180,
+      "visitorVisaRaw": "6 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "< 0.5 Month"
+    },
+    {
+      "post": "Abuja",
+      "visitorVisaDays": 135,
+      "visitorVisaRaw": "4.5 Months",
+      "avgWaitDays": 345,
+      "avgWaitRaw": "11.5 Months"
+    },
+    {
+      "post": "Accra",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": 240,
+      "avgWaitRaw": "8 Months"
+    },
+    {
+      "post": "Adana",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Addis Ababa",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 75,
+      "avgWaitRaw": "2.5 Months"
+    },
+    {
+      "post": "Algiers",
+      "visitorVisaDays": 390,
+      "visitorVisaRaw": "13 Months",
+      "avgWaitDays": 195,
+      "avgWaitRaw": "6.5 Months"
+    },
+    {
+      "post": "Almaty",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Amman",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Amsterdam",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ankara",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": 90,
+      "avgWaitRaw": "3 Months"
+    },
+    {
+      "post": "Antananarivo",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Apia",
+      "visitorVisaDays": 105,
+      "visitorVisaRaw": "3.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ashgabat",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Asmara",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Astana",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Asuncion",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Athens",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Auckland",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": 75,
+      "avgWaitRaw": "2.5 Months"
+    },
+    {
+      "post": "Baghdad",
+      "visitorVisaDays": 150,
+      "visitorVisaRaw": "5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Baku",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bamako",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bandar Seri Begawan",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bangkok",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bangui",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Banjul",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Barcelona",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Beijing",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Beirut",
+      "visitorVisaDays": 135,
+      "visitorVisaRaw": "4.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Belfast",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Belgrade",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Belmopan",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Berlin",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bern",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bishkek",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bogota",
+      "visitorVisaDays": 270,
+      "visitorVisaRaw": "9 Months",
+      "avgWaitDays": 330,
+      "avgWaitRaw": "11 Month"
+    },
+    {
+      "post": "Brasilia",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bratislava",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Brazzaville",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bridgetown",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Brussels",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bucharest",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Budapest",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Buenos Aires",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Bujumbura",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Cairo",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Calgary",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": 225,
+      "avgWaitRaw": "7.5 Months"
+    },
+    {
+      "post": "Canberra",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Cape Town",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Caracas",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Casablanca",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": 75,
+      "avgWaitRaw": "2.5 Months"
+    },
+    {
+      "post": "Chengdu",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Chennai (Madras)",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": 165,
+      "avgWaitRaw": "5.5 Months"
+    },
+    {
+      "post": "Chiang Mai",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Chisinau",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ciudad Juarez",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Colombo",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Conakry",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Copenhagen",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Cotonou",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Curacao",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dakar",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Damascus",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dar Es Salaam",
+      "visitorVisaDays": 180,
+      "visitorVisaRaw": "6 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dhahran",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dhaka",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": 270,
+      "avgWaitRaw": "9 Months"
+    },
+    {
+      "post": "Dili",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Djibouti",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Doha",
+      "visitorVisaDays": 105,
+      "visitorVisaRaw": "3.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dubai",
+      "visitorVisaDays": 375,
+      "visitorVisaRaw": "12.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dublin",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Durban",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Dushanbe",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Edinburgh",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Erbil",
+      "visitorVisaDays": 150,
+      "visitorVisaRaw": "5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Florence",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Frankfurt",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Freetown",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Fukuoka",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Gaborone",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Georgetown",
+      "visitorVisaDays": 105,
+      "visitorVisaRaw": "3.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Guadalajara",
+      "visitorVisaDays": 105,
+      "visitorVisaRaw": "3.5 Months",
+      "avgWaitDays": 180,
+      "avgWaitRaw": "6 Months"
+    },
+    {
+      "post": "Guangzhou",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": 30,
+      "avgWaitRaw": "1 Month"
+    },
+    {
+      "post": "Guatemala City",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": 90,
+      "avgWaitRaw": "3 Months"
+    },
+    {
+      "post": "Guayaquil",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Halifax",
+      "visitorVisaDays": 435,
+      "visitorVisaRaw": "14.5 Months",
+      "avgWaitDays": 75,
+      "avgWaitRaw": "2.5 Months"
+    },
+    {
+      "post": "Hamilton",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Hanoi",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Harare",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Havana",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Helsinki",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Hermosillo",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Ho Chi Minh City",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Hong Kong",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Hyderabad",
+      "visitorVisaDays": 285,
+      "visitorVisaRaw": "9.5 Months",
+      "avgWaitDays": 285,
+      "avgWaitRaw": "9.5 Months"
+    },
+    {
+      "post": "Islamabad",
+      "visitorVisaDays": 195,
+      "visitorVisaRaw": "6.5 Months",
+      "avgWaitDays": 210,
+      "avgWaitRaw": "7 Months"
+    },
+    {
+      "post": "Istanbul",
+      "visitorVisaDays": 135,
+      "visitorVisaRaw": "4.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Jakarta",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Jeddah",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Jerusalem",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": 225,
+      "avgWaitRaw": "7.5 Months"
+    },
+    {
+      "post": "Johannesburg",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Juba",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kabul",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kampala",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": 150,
+      "avgWaitRaw": "5 Months"
+    },
+    {
+      "post": "Kaohsiung",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Karachi",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kathmandu",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Khartoum",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kigali",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kingston",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kinshasa",
+      "visitorVisaDays": 330,
+      "visitorVisaRaw": "11 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kolkata",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Kolonia",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Koror",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Krakow",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kuala Lumpur",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kuwait",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Kyiv",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "La Paz",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Lagos",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Lahore",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Libreville",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Lilongwe",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Lima",
+      "visitorVisaDays": 270,
+      "visitorVisaRaw": "9 Months",
+      "avgWaitDays": 210,
+      "avgWaitRaw": "7 Months"
+    },
+    {
+      "post": "Lisbon",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ljubljana",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Lome",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "London",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Luanda",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Lusaka",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": 135,
+      "avgWaitRaw": "4.5 Months"
+    },
+    {
+      "post": "Luxembourg",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Madrid",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Majuro",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Malabo",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Managua",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Manama",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Manila",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Maputo",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Marseille",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Maseru",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Matamoros",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 165,
+      "avgWaitRaw": "5.5 Months"
+    },
+    {
+      "post": "Mbabane",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Melbourne",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 225,
+      "avgWaitRaw": "7.5 Months"
+    },
+    {
+      "post": "Merida",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Mexicali Tpf",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Mexico City",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Milan",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Minsk",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Monrovia",
+      "visitorVisaDays": 405,
+      "visitorVisaRaw": "13.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Monterrey",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Montevideo",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Montreal",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Mumbai (Bombay)",
+      "visitorVisaDays": 300,
+      "visitorVisaRaw": "10 Months",
+      "avgWaitDays": 285,
+      "avgWaitRaw": "9.5 Months"
+    },
+    {
+      "post": "Munich",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Muscat",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "N`Djamena",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Naha",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Nairobi",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Naples",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Nassau",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "New Delhi",
+      "visitorVisaDays": 255,
+      "visitorVisaRaw": "8.5 Months",
+      "avgWaitDays": 225,
+      "avgWaitRaw": "7.5 Months"
+    },
+    {
+      "post": "Niamey",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Nicosia",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Nogales",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Nouakchott",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Nuevo Laredo",
+      "visitorVisaDays": 105,
+      "visitorVisaRaw": "3.5 Months",
+      "avgWaitDays": 150,
+      "avgWaitRaw": "5 Months"
+    },
+    {
+      "post": "Osaka/Kobe",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Oslo",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ottawa",
+      "visitorVisaDays": 435,
+      "visitorVisaRaw": "14.5 Months",
+      "avgWaitDays": 420,
+      "avgWaitRaw": "14 Months"
+    },
+    {
+      "post": "Ouagadougou",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Panama City",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Paramaribo",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Paris",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Perth",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Phnom Penh",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Podgorica",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ponta Delgada",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Port Au Prince",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Port Louis",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Port Moresby",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Port Of Spain",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Porto Alegre",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Prague",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Praia",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Pretoria",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Pristina",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Quebec",
+      "visitorVisaDays": 435,
+      "visitorVisaRaw": "14.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Quito",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Rangoon",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Recife",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Reykjavik",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Riga",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Rio De Janeiro",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Riyadh",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Rome",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": 75,
+      "avgWaitRaw": "2.5 Months"
+    },
+    {
+      "post": "San Jose",
+      "visitorVisaDays": 300,
+      "visitorVisaRaw": "10 Months",
+      "avgWaitDays": 210,
+      "avgWaitRaw": "7 Months"
+    },
+    {
+      "post": "San Salvador",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Sanaa",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Santiago",
+      "visitorVisaDays": 120,
+      "visitorVisaRaw": "4 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Santo Domingo",
+      "visitorVisaDays": 390,
+      "visitorVisaRaw": "13 Months",
+      "avgWaitDays": 165,
+      "avgWaitRaw": "5.5 Months"
+    },
+    {
+      "post": "Sao Paulo",
+      "visitorVisaDays": 60,
+      "visitorVisaRaw": "2 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Sapporo",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Sarajevo",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Seoul",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Shanghai",
+      "visitorVisaDays": 105,
+      "visitorVisaRaw": "3.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Shenyang",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Singapore",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Skopje",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Sofia",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "St Georges",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "St Petersburg",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Stockholm",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Surabaya",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Suva",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Sydney",
+      "visitorVisaDays": 540,
+      "visitorVisaRaw": "18 Months",
+      "avgWaitDays": 120,
+      "avgWaitRaw": "4 Months"
+    },
+    {
+      "post": "Taipei",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tallinn",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tashkent",
+      "visitorVisaDays": 90,
+      "visitorVisaRaw": "3 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tbilisi",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tegucigalpa",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": 255,
+      "avgWaitRaw": "8.5 Months"
+    },
+    {
+      "post": "Tel Aviv",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tijuana",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tirana",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tokyo",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Toronto",
+      "visitorVisaDays": 645,
+      "visitorVisaRaw": "21.5 Months",
+      "avgWaitDays": 630,
+      "avgWaitRaw": "21 Month"
+    },
+    {
+      "post": "Tripoli",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Tunis",
+      "visitorVisaDays": 75,
+      "visitorVisaRaw": "2.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Ulaanbaatar",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Valletta",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Vancouver",
+      "visitorVisaDays": 420,
+      "visitorVisaRaw": "14 Months",
+      "avgWaitDays": 360,
+      "avgWaitRaw": "12 Months"
+    },
+    {
+      "post": "Vienna",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Vientiane",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Vilnius",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Vladivostok",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Warsaw",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Windhoek",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Wuhan",
+      "visitorVisaDays": 45,
+      "visitorVisaRaw": "1.5 Months",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Yaounde",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Yekaterinburg",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "NA",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Yerevan",
+      "visitorVisaDays": 30,
+      "visitorVisaRaw": "1 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    },
+    {
+      "post": "Zagreb",
+      "visitorVisaDays": null,
+      "visitorVisaRaw": "< 0.5 Month",
+      "avgWaitDays": null,
+      "avgWaitRaw": "NA"
+    }
+  ]
+}

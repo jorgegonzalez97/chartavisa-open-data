@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Charta Visa Travel Authorization Data"
+message: "If you use this data, please cite it as below."
+type: dataset
+authors:
+  - name: "Charta Visa (Charta Labs, LLC)"
+    website: "https://chartavisa.com"
+license: CC-BY-4.0
+repository-code: "https://github.com/jorgegonzalez97/chartavisa-open-data"
+url: "https://chartavisa.com/research"
+version: "2026-07-28"
+date-released: "2026-07-28"
+abstract: >-
+  Open data on travel authorizations (ESTA, UK ETA, ETIAS, Canada eTA, US B1/B2 visa): which nationality needs which product, the government fee in its own currency, validity, processing, the official government source for every row, the 2026 'Cost of Crossing Borders' report tables, and a monthly time series of U.S. visitor-visa interview wait times as published by the U.S. Department of State.
+  Charta Visa is an independent private service, not a government website. Government fees are stated separately and paid to the authorities in full.
+keywords:
+  - "travel authorization"
+  - "visa"
+  - "ESTA"
+  - "ETIAS"
+  - "UK ETA"
+  - "Canada eTA"
+  - "DS-160"
+  - "visa wait times"

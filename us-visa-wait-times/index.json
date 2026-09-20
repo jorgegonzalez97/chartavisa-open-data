@@ -1,0 +1,18 @@
+{
+  "dataset": "us-visa-wait-times",
+  "publisher": "Charta Visa",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html",
+  "unit": "months",
+  "unitNote": "As published by the U.S. Department of State: months are 30-day increments, half months are 15-day increments, including weekends and holidays. visitorVisaDays/avgWaitDays are that same figure expressed in days; null when the published value is non-numeric ('NA', '< 0.5 Month').",
+  "note": "Transcribed monthly from the U.S. Department of State's Global Visa Wait Times page. Values are the Department's own published figures; nothing is estimated. Charta Visa is an independent private service, not a government website. Government fees are stated separately and paid to the authorities in full.",
+  "latest": "2026-07-28",
+  "snapshots": [
+    {
+      "asOf": "2026-07-28",
+      "sourceLastUpdated": "2026-06-18",
+      "file": "2026-07-28.json",
+      "posts": 241
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileObject": "cr:fileObject",
+    "fileProperty": "cr:fileProperty",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "name": "Charta Visa Travel Authorization Data",
+  "description": "Open data on travel authorizations (ESTA, UK ETA, ETIAS, Canada eTA, US B1/B2 visa): which nationality needs which product, the government fee in its own currency, validity, processing, the official government source for every row, the 2026 'Cost of Crossing Borders' report tables, and a monthly time series of U.S. visitor-visa interview wait times as published by the U.S. Department of State. Charta Visa is an independent private service, not a government website. Government fees are stated separately and paid to the authorities in full.",
+  "url": "https://chartavisa.com/research",
+  "sameAs": [
+    "https://github.com/jorgegonzalez97/chartavisa-open-data",
+    "https://huggingface.co/datasets/chartavisa/travel-authorization-data"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "isLiveDataset": true,
+  "creator": {
+    "@type": "sc:Organization",
+    "name": "Charta Visa",
+    "url": "https://chartavisa.com"
+  },
+  "datePublished": "2026-06-01",
+  "version": "2026-07-28",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "entry-cost-2026-csv",
+      "name": "entry-cost-2026.csv",
+      "description": "Tables behind 'The Cost of Crossing Borders 2026': per-authorization fees, validity, fee history and eligible-nationality counts, then per-nationality authorization burden and total government fees (USD).",
+      "contentUrl": "entry-cost-2026.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "8ff9d62ff06ff03f2e828599f48b6f4aa17c6548d26a6008eab5d3af846a2967"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "us-visa-wait-times-2026-07-28-json",
+      "name": "us-visa-wait-times/2026-07-28.json",
+      "description": "U.S. visitor-visa wait times by consular post, State Department vintage 2026-07-28.",
+      "contentUrl": "us-visa-wait-times/2026-07-28.json",
+      "encodingFormat": "application/json",
+      "sha256": "e51f9f6f8d16dc047a0a85f1987219d8462cdbeac5840f62b7e7d1a46491a36d"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "us-visa-wait-times-index-json",
+      "name": "us-visa-wait-times/index.json",
+      "description": "Manifest of the U.S. visitor-visa wait-time snapshots (one file per State Department vintage).",
+      "contentUrl": "us-visa-wait-times/index.json",
+      "encodingFormat": "application/json",
+      "sha256": "c400531709a60cf43b1289cffafbe89a2082be8b106d344aa4314402b35c4df5"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "visa-requirements-csv",
+      "name": "visa-requirements.csv",
+      "description": "One row per (nationality, destination) pair: product, government fee + currency, service availability, processing, validity, official government source.",
+      "contentUrl": "visa-requirements.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "e0962a5d6cfb1841e061e63bbd440cf46f77b38b3a79a3127b4423fa47435ef7"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "visa-requirements-json",
+      "name": "visa-requirements.json",
+      "description": "JSON envelope of the same rows as visa-requirements.csv, with column list and vintage.",
+      "contentUrl": "visa-requirements.json",
+      "encodingFormat": "application/json",
+      "sha256": "5c1f044dd1d93754b980aa2a0f5357cc0397e9d36aa1a4f5a83b2e0b4a775d8f"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "visa-requirements",
+      "name": "visa-requirements",
+      "description": "One row per (nationality, destination) pair Charta Visa serves, with the product, government fee, validity, processing time and the official government source.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/nationality",
+          "name": "nationality",
+          "description": "ISO-3166-1 alpha-2 nationality (UK for the United Kingdom).",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "nationality"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/nationality_name",
+          "name": "nationality_name",
+          "description": "English country name.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "nationality_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/destination",
+          "name": "destination",
+          "description": "Destination slug: us, uk, ca or etias (Schengen Area).",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "destination"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/destination_name",
+          "name": "destination_name",
+          "description": "English destination name.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "destination_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/product",
+          "name": "product",
+          "description": "Authorization product id: ESTA, UK_ETA, ETIAS, CANADA_ETA or DS160.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "product"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/product_name",
+          "name": "product_name",
+          "description": "Product display name.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "product_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/government_fee",
+          "name": "government_fee",
+          "description": "Government fee in government_fee_currency, paid to the authority.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "government_fee"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/government_fee_currency",
+          "name": "government_fee_currency",
+          "description": "ISO-4217 currency of government_fee.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "government_fee_currency"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/service_available",
+          "name": "service_available",
+          "description": "Whether Charta Visa currently processes this product (ETIAS is pre-launch).",
+          "dataType": "sc:Boolean",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "service_available"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/processing",
+          "name": "processing",
+          "description": "Typical decision time as stated by the authority.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "processing"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/validity",
+          "name": "validity",
+          "description": "Validity period as stated by the authority.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "validity"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/official_source_name",
+          "name": "official_source_name",
+          "description": "Government body the row is checked against.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "official_source_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/official_source_url",
+          "name": "official_source_url",
+          "description": "Official government page.",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "official_source_url"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "visa-requirements-csv/requirements_url",
+          "name": "requirements_url",
+          "description": "Charta Visa's page for the pair.",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "visa-requirements-csv"
+            },
+            "extract": {
+              "column": "requirements_url"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

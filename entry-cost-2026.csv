@@ -1,0 +1,206 @@
+# The Cost of Crossing Borders 2026 — Charta Visa (chartavisa.com)
+# Government fees from official sources; FX→USD approx as of June 2026. Independent study, not affiliated with any government.
+
+section,authorization,region,fee,currency,fee_usd,validity_years,fee_start,fee_start_year,fee_change_pct,eligible_nationalities
+authorization,ESTA,United States,40,USD,40,2,14,2010,186,42
+authorization,US Visitor Visa (B1/B2),US Visitor Visa (B1/B2),185,USD,185,10,185,—,0,151
+authorization,UK ETA,United Kingdom,20,GBP,25.4,2,10,2023,100,82
+authorization,ETIAS,Schengen Europe,20,EUR,21.6,3,7,originally planned,186,59
+authorization,Canada eTA,Canada,7,CAD,5.11,5,7,2015,0,52
+
+section,nationality_code,nationality,authorizations_needed,burden_count,total_fees_usd
+nationality,BS,"Bahamas",DS160|UK_ETA|ETIAS|CANADA_ETA,4,237
+nationality,BB,"Barbados",DS160|UK_ETA|ETIAS|CANADA_ETA,4,237
+nationality,HK,"Hong Kong SAR China",DS160|UK_ETA|ETIAS|CANADA_ETA,4,237
+nationality,WS,"Samoa",DS160|UK_ETA|ETIAS|CANADA_ETA,4,237
+nationality,SB,"Solomon Islands",DS160|UK_ETA|ETIAS|CANADA_ETA,4,237
+nationality,AE,"United Arab Emirates",DS160|UK_ETA|ETIAS|CANADA_ETA,4,237
+nationality,AG,"Antigua & Barbuda",DS160|UK_ETA|ETIAS,3,232
+nationality,AR,"Argentina",DS160|UK_ETA|ETIAS,3,232
+nationality,BR,"Brazil",DS160|UK_ETA|ETIAS,3,232
+nationality,CA,"Canada",DS160|UK_ETA|ETIAS,3,232
+nationality,CR,"Costa Rica",DS160|UK_ETA|ETIAS,3,232
+nationality,GD,"Grenada",DS160|UK_ETA|ETIAS,3,232
+nationality,GT,"Guatemala",DS160|UK_ETA|ETIAS,3,232
+nationality,KI,"Kiribati",DS160|UK_ETA|ETIAS,3,232
+nationality,MO,"Macao SAR China",DS160|UK_ETA|ETIAS,3,232
+nationality,MY,"Malaysia",DS160|UK_ETA|ETIAS,3,232
+nationality,MH,"Marshall Islands",DS160|UK_ETA|ETIAS,3,232
+nationality,MU,"Mauritius",DS160|UK_ETA|ETIAS,3,232
+nationality,MX,"Mexico",DS160|UK_ETA|ETIAS,3,232
+nationality,FM,"Micronesia",DS160|UK_ETA|ETIAS,3,232
+nationality,PW,"Palau",DS160|UK_ETA|ETIAS,3,232
+nationality,PA,"Panama",DS160|UK_ETA|ETIAS,3,232
+nationality,PY,"Paraguay",DS160|UK_ETA|ETIAS,3,232
+nationality,PE,"Peru",DS160|UK_ETA|ETIAS,3,232
+nationality,SC,"Seychelles",DS160|UK_ETA|ETIAS,3,232
+nationality,KN,"St. Kitts & Nevis",DS160|UK_ETA|ETIAS,3,232
+nationality,VC,"St. Vincent & Grenadines",DS160|UK_ETA|ETIAS,3,232
+nationality,TO,"Tonga",DS160|UK_ETA|ETIAS,3,232
+nationality,TV,"Tuvalu",DS160|UK_ETA|ETIAS,3,232
+nationality,UY,"Uruguay",DS160|UK_ETA|ETIAS,3,232
+nationality,BG,"Bulgaria",DS160|UK_ETA|CANADA_ETA,3,216
+nationality,CY,"Cyprus",DS160|UK_ETA|CANADA_ETA,3,216
+nationality,PG,"Papua New Guinea",DS160|UK_ETA|CANADA_ETA,3,216
+nationality,RO,"Romania",DS160|UK_ETA|CANADA_ETA,3,216
+nationality,BH,"Bahrain",DS160|UK_ETA,2,210
+nationality,BZ,"Belize",DS160|UK_ETA,2,210
+nationality,GY,"Guyana",DS160|UK_ETA,2,210
+nationality,KW,"Kuwait",DS160|UK_ETA,2,210
+nationality,MV,"Maldives",DS160|UK_ETA,2,210
+nationality,OM,"Oman",DS160|UK_ETA,2,210
+nationality,SA,"Saudi Arabia",DS160|UK_ETA,2,210
+nationality,AL,"Albania",DS160|ETIAS,2,207
+nationality,BA,"Bosnia & Herzegovina",DS160|ETIAS,2,207
+nationality,CO,"Colombia",DS160|ETIAS,2,207
+nationality,DM,"Dominica",DS160|ETIAS,2,207
+nationality,SV,"El Salvador",DS160|ETIAS,2,207
+nationality,GE,"Georgia",DS160|ETIAS,2,207
+nationality,HN,"Honduras",DS160|ETIAS,2,207
+nationality,XK,"Kosovo",DS160|ETIAS,2,207
+nationality,MD,"Moldova",DS160|ETIAS,2,207
+nationality,ME,"Montenegro",DS160|ETIAS,2,207
+nationality,NI,"Nicaragua",DS160|ETIAS,2,207
+nationality,MK,"North Macedonia",DS160|ETIAS,2,207
+nationality,RS,"Serbia",DS160|ETIAS,2,207
+nationality,LC,"St. Lucia",DS160|ETIAS,2,207
+nationality,TL,"Timor-Leste",DS160|ETIAS,2,207
+nationality,TT,"Trinidad & Tobago",DS160|ETIAS,2,207
+nationality,UA,"Ukraine",DS160|ETIAS,2,207
+nationality,VE,"Venezuela",DS160|ETIAS,2,207
+nationality,AF,"Afghanistan",DS160,1,185
+nationality,DZ,"Algeria",DS160,1,185
+nationality,AS,"American Samoa",DS160,1,185
+nationality,AO,"Angola",DS160,1,185
+nationality,AM,"Armenia",DS160,1,185
+nationality,AZ,"Azerbaijan",DS160,1,185
+nationality,BD,"Bangladesh",DS160,1,185
+nationality,BY,"Belarus",DS160,1,185
+nationality,BJ,"Benin",DS160,1,185
+nationality,BT,"Bhutan",DS160,1,185
+nationality,BO,"Bolivia",DS160,1,185
+nationality,BW,"Botswana",DS160,1,185
+nationality,BF,"Burkina Faso",DS160,1,185
+nationality,BI,"Burundi",DS160,1,185
+nationality,KH,"Cambodia",DS160,1,185
+nationality,CM,"Cameroon",DS160,1,185
+nationality,CV,"Cape Verde",DS160,1,185
+nationality,CF,"Central African Republic",DS160,1,185
+nationality,TD,"Chad",DS160,1,185
+nationality,CN,"China",DS160,1,185
+nationality,KM,"Comoros",DS160,1,185
+nationality,CG,"Congo - Brazzaville",DS160,1,185
+nationality,CD,"Congo - Kinshasa",DS160,1,185
+nationality,CI,"Côte d’Ivoire",DS160,1,185
+nationality,DJ,"Djibouti",DS160,1,185
+nationality,DO,"Dominican Republic",DS160,1,185
+nationality,EC,"Ecuador",DS160,1,185
+nationality,EG,"Egypt",DS160,1,185
+nationality,GQ,"Equatorial Guinea",DS160,1,185
+nationality,ER,"Eritrea",DS160,1,185
+nationality,SZ,"Eswatini",DS160,1,185
+nationality,ET,"Ethiopia",DS160,1,185
+nationality,FJ,"Fiji",DS160,1,185
+nationality,GA,"Gabon",DS160,1,185
+nationality,GM,"Gambia",DS160,1,185
+nationality,GH,"Ghana",DS160,1,185
+nationality,GN,"Guinea",DS160,1,185
+nationality,GW,"Guinea-Bissau",DS160,1,185
+nationality,HT,"Haiti",DS160,1,185
+nationality,IN,"India",DS160,1,185
+nationality,ID,"Indonesia",DS160,1,185
+nationality,IQ,"Iraq",DS160,1,185
+nationality,JM,"Jamaica",DS160,1,185
+nationality,JO,"Jordan",DS160,1,185
+nationality,KZ,"Kazakhstan",DS160,1,185
+nationality,KE,"Kenya",DS160,1,185
+nationality,KG,"Kyrgyzstan",DS160,1,185
+nationality,LA,"Laos",DS160,1,185
+nationality,LB,"Lebanon",DS160,1,185
+nationality,LS,"Lesotho",DS160,1,185
+nationality,LR,"Liberia",DS160,1,185
+nationality,LY,"Libya",DS160,1,185
+nationality,MG,"Madagascar",DS160,1,185
+nationality,MW,"Malawi",DS160,1,185
+nationality,ML,"Mali",DS160,1,185
+nationality,MR,"Mauritania",DS160,1,185
+nationality,MN,"Mongolia",DS160,1,185
+nationality,MA,"Morocco",DS160,1,185
+nationality,MZ,"Mozambique",DS160,1,185
+nationality,MM,"Myanmar (Burma)",DS160,1,185
+nationality,NA,"Namibia",DS160,1,185
+nationality,NR,"Nauru",DS160,1,185
+nationality,NP,"Nepal",DS160,1,185
+nationality,NE,"Niger",DS160,1,185
+nationality,NG,"Nigeria",DS160,1,185
+nationality,PK,"Pakistan",DS160,1,185
+nationality,PH,"Philippines",DS160,1,185
+nationality,RU,"Russia",DS160,1,185
+nationality,RW,"Rwanda",DS160,1,185
+nationality,ST,"São Tomé & Príncipe",DS160,1,185
+nationality,SN,"Senegal",DS160,1,185
+nationality,SL,"Sierra Leone",DS160,1,185
+nationality,SO,"Somalia",DS160,1,185
+nationality,ZA,"South Africa",DS160,1,185
+nationality,SS,"South Sudan",DS160,1,185
+nationality,LK,"Sri Lanka",DS160,1,185
+nationality,SD,"Sudan",DS160,1,185
+nationality,SR,"Suriname",DS160,1,185
+nationality,TJ,"Tajikistan",DS160,1,185
+nationality,TZ,"Tanzania",DS160,1,185
+nationality,TH,"Thailand",DS160,1,185
+nationality,TG,"Togo",DS160,1,185
+nationality,TN,"Tunisia",DS160,1,185
+nationality,TR,"Türkiye",DS160,1,185
+nationality,TM,"Turkmenistan",DS160,1,185
+nationality,UG,"Uganda",DS160,1,185
+nationality,UZ,"Uzbekistan",DS160,1,185
+nationality,VU,"Vanuatu",DS160,1,185
+nationality,VN,"Vietnam",DS160,1,185
+nationality,YE,"Yemen",DS160,1,185
+nationality,ZM,"Zambia",DS160,1,185
+nationality,ZW,"Zimbabwe",DS160,1,185
+nationality,AU,"Australia",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,BN,"Brunei",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,CL,"Chile",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,IL,"Israel",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,JP,"Japan",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,NZ,"New Zealand",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,SG,"Singapore",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,KR,"South Korea",ESTA|UK_ETA|ETIAS|CANADA_ETA,4,92
+nationality,AD,"Andorra",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,AT,"Austria",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,BE,"Belgium",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,HR,"Croatia",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,CZ,"Czechia",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,DK,"Denmark",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,EE,"Estonia",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,FI,"Finland",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,FR,"France",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,DE,"Germany",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,GR,"Greece",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,HU,"Hungary",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,IS,"Iceland",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,IT,"Italy",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,LV,"Latvia",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,LI,"Liechtenstein",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,LT,"Lithuania",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,LU,"Luxembourg",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,MT,"Malta",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,MC,"Monaco",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,NL,"Netherlands",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,NO,"Norway",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,PL,"Poland",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,PT,"Portugal",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,QA,"Qatar",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,SM,"San Marino",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,SK,"Slovakia",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,SI,"Slovenia",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,ES,"Spain",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,SE,"Sweden",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,CH,"Switzerland",ESTA|UK_ETA|CANADA_ETA,3,71
+nationality,TW,"Taiwan",ESTA|ETIAS|CANADA_ETA,3,67
+nationality,UK,"United Kingdom",ESTA|ETIAS|CANADA_ETA,3,67
+nationality,US,"United States",UK_ETA|ETIAS,2,47
+nationality,IE,"Ireland",ESTA|CANADA_ETA,2,45
+nationality,VA,"Vatican City",UK_ETA,1,25
