@@ -42,7 +42,7 @@ Live copies of the current files are also served from the site: [visa-requiremen
 
 ## How to cite
 
-Charta Visa (2026). *Charta Visa Travel Authorization Data* [Data set]. https://github.com/jorgegonzalez97/chartavisa-open-data (DOI: pending first Zenodo release)
+Charta Visa (2026). *Charta Visa Travel Authorization Data* [Data set]. https://doi.org/10.5281/zenodo.22851176
 
 A DOI is minted by Zenodo for every GitHub release of this repository (tags `data-YYYY-MM-DD`); cite the version DOI for the release you used, or the concept DOI for the series. `CITATION.cff` carries the same reference in machine-readable form (GitHub shows a *Cite this repository* button from it).
 

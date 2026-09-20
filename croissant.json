@@ -58,6 +58,8 @@
   },
   "datePublished": "2026-06-01",
   "version": "2026-07-28",
+  "identifier": "https://doi.org/10.5281/zenodo.22851176",
+  "citeAs": "Charta Visa. Charta Visa Travel Authorization Data. https://doi.org/10.5281/zenodo.22851176",
   "distribution": [
     {
       "@type": "cr:FileObject",
