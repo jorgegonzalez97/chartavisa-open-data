@@ -42,7 +42,7 @@
   "@type": "sc:Dataset",
   "conformsTo": "http://mlcommons.org/croissant/1.0",
   "name": "Charta Visa Travel Authorization Data",
-  "description": "Open data on travel authorizations (ESTA, UK ETA, ETIAS, Canada eTA, US B1/B2 visa): which nationality needs which product, the government fee in its own currency, validity, processing, the official government source for every row, the 2026 'Cost of Crossing Borders' report tables, and a monthly time series of U.S. visitor-visa interview wait times as published by the U.S. Department of State. Charta Visa is an independent private service, not a government website. Government fees are stated separately and paid to the authorities in full.",
+  "description": "Open data on travel authorizations (ESTA, UK ETA, ETIAS, Canada eTA, NZeTA, US B1/B2 visa): which nationality needs which product, the government fee in its own currency, validity, processing, the official government source for every row, the 2026 'Cost of Crossing Borders' report tables, and a monthly time series of U.S. visitor-visa interview wait times as published by the U.S. Department of State. Charta Visa is an independent private service, not a government website. Government fees are stated separately and paid to the authorities in full.",
   "url": "https://chartavisa.com/research",
   "sameAs": [
     "https://github.com/jorgegonzalez97/chartavisa-open-data",
@@ -57,7 +57,7 @@
     "url": "https://chartavisa.com"
   },
   "datePublished": "2026-06-01",
-  "version": "2026-07-28",
+  "version": "2026-09-24",
   "identifier": "https://doi.org/10.5281/zenodo.22851176",
   "citeAs": "Charta Visa. Charta Visa Travel Authorization Data. https://doi.org/10.5281/zenodo.22851176",
   "distribution": [
@@ -68,7 +68,7 @@
       "description": "Tables behind 'The Cost of Crossing Borders 2026': per-authorization fees, validity, fee history and eligible-nationality counts, then per-nationality authorization burden and total government fees (USD).",
       "contentUrl": "entry-cost-2026.csv",
       "encodingFormat": "text/csv",
-      "sha256": "8ff9d62ff06ff03f2e828599f48b6f4aa17c6548d26a6008eab5d3af846a2967"
+      "sha256": "3eb063ebd6d6131a54d4f754807e373776afd10d40ece8295875b06382a16223"
     },
     {
       "@type": "cr:FileObject",
@@ -81,12 +81,21 @@
     },
     {
       "@type": "cr:FileObject",
+      "@id": "us-visa-wait-times-2026-09-24-json",
+      "name": "us-visa-wait-times/2026-09-24.json",
+      "description": "U.S. visitor-visa wait times by consular post, State Department vintage 2026-09-24.",
+      "contentUrl": "us-visa-wait-times/2026-09-24.json",
+      "encodingFormat": "application/json",
+      "sha256": "6cbd810027221f195f5b6ad419f00171d5a1c20fabbad300cd31db5982bb0e13"
+    },
+    {
+      "@type": "cr:FileObject",
       "@id": "us-visa-wait-times-index-json",
       "name": "us-visa-wait-times/index.json",
       "description": "Manifest of the U.S. visitor-visa wait-time snapshots (one file per State Department vintage).",
       "contentUrl": "us-visa-wait-times/index.json",
       "encodingFormat": "application/json",
-      "sha256": "c400531709a60cf43b1289cffafbe89a2082be8b106d344aa4314402b35c4df5"
+      "sha256": "660c15276325c65f93e5b6816f06bd1fa635c92dadab189e66fad70a8a0c1c30"
     },
     {
       "@type": "cr:FileObject",
@@ -95,7 +104,7 @@
       "description": "One row per (nationality, destination) pair: product, government fee + currency, service availability, processing, validity, official government source.",
       "contentUrl": "visa-requirements.csv",
       "encodingFormat": "text/csv",
-      "sha256": "e0962a5d6cfb1841e061e63bbd440cf46f77b38b3a79a3127b4423fa47435ef7"
+      "sha256": "ce51ccc1106e04ad9f25fffd4734962925c2bf08ce257a15b2c1c90ff71b1502"
     },
     {
       "@type": "cr:FileObject",
@@ -104,7 +113,7 @@
       "description": "JSON envelope of the same rows as visa-requirements.csv, with column list and vintage.",
       "contentUrl": "visa-requirements.json",
       "encodingFormat": "application/json",
-      "sha256": "5c1f044dd1d93754b980aa2a0f5357cc0397e9d36aa1a4f5a83b2e0b4a775d8f"
+      "sha256": "dfe04a5ff31311e257864d820f3e284bb278fcc4c78536aea29550af2ecc2aaf"
     }
   ],
   "recordSet": [
@@ -148,7 +157,7 @@
           "@type": "cr:Field",
           "@id": "visa-requirements-csv/destination",
           "name": "destination",
-          "description": "Destination slug: us, uk, ca or etias (Schengen Area).",
+          "description": "Destination slug: us, uk, ca, nz or etias (Schengen Area).",
           "dataType": "sc:Text",
           "source": {
             "fileObject": {
@@ -178,7 +187,7 @@
           "@type": "cr:Field",
           "@id": "visa-requirements-csv/product",
           "name": "product",
-          "description": "Authorization product id: ESTA, UK_ETA, ETIAS, CANADA_ETA or DS160.",
+          "description": "Authorization product id: ESTA, UK_ETA, ETIAS, CANADA_ETA, NZ_ETA or DS160.",
           "dataType": "sc:Text",
           "source": {
             "fileObject": {

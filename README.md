@@ -15,7 +15,7 @@ size_categories:
 
 # Charta Visa Travel Authorization Data
 
-Open data on travel authorizations (ESTA, UK ETA, ETIAS, Canada eTA, US B1/B2 visa): which nationality needs which product, the government fee in its own currency, validity, processing, the official government source for every row, the 2026 'Cost of Crossing Borders' report tables, and a monthly time series of U.S. visitor-visa interview wait times as published by the U.S. Department of State.
+Open data on travel authorizations (ESTA, UK ETA, ETIAS, Canada eTA, NZeTA, US B1/B2 visa): which nationality needs which product, the government fee in its own currency, validity, processing, the official government source for every row, the 2026 'Cost of Crossing Borders' report tables, and a monthly time series of U.S. visitor-visa interview wait times as published by the U.S. Department of State.
 
 > Charta Visa is an independent private service, not a government website. Government fees are stated separately and paid to the authorities in full.
 
@@ -25,9 +25,9 @@ Published by [Charta Visa](https://chartavisa.com) — see the [research hub](ht
 
 | File | Vintage | What it is |
 |---|---|---|
-| `visa-requirements.csv` / `.json` | 2026-06-01 | 386 rows — 195 nationalities × the destinations Charta Visa serves (US, UK, Canada, Schengen/ETIAS). Product, government fee + currency, service availability, processing, validity, and the **official government source URL for every row**. |
+| `visa-requirements.csv` / `.json` | 2026-06-01 | 406 rows — 164 nationalities × the destinations Charta Visa serves (US, UK, Canada, Schengen/ETIAS). Product, government fee + currency, service availability, processing, validity, and the **official government source URL for every row**. |
 | `entry-cost-2026.csv` | 2026-06-01 | The tables behind [The Cost of Crossing Borders — 2026](https://chartavisa.com/research/cost-of-crossing-borders-2026): fee history per authorization and the per-nationality authorization burden in USD. Two sections, each with its own header row; `#` lines are comments. |
-| `us-visa-wait-times/<asOf>.json` | monthly | One snapshot per U.S. Department of State vintage of the *Global Visa Wait Times* table (B1/B2 next-available appointment and average wait, per consular post). Files are never rewritten, so the folder is a time series. Latest: `2026-07-28.json` (241 posts, source last updated 2026-06-18). |
+| `us-visa-wait-times/<asOf>.json` | monthly | One snapshot per U.S. Department of State vintage of the *Global Visa Wait Times* table (B1/B2 next-available appointment and average wait, per consular post). Files are never rewritten, so the folder is a time series. Latest: `2026-09-24.json` (241 posts, source last updated 2026-09-17). |
 | `us-visa-wait-times/index.json` | — | Manifest of the snapshots above (asOf, source vintage, post count). |
 
 Live copies of the current files are also served from the site: [visa-requirements.csv](https://chartavisa.com/api/research/visa-requirements.csv), [visa-requirements.json](https://chartavisa.com/api/research/visa-requirements), [entry-cost-2026.csv](https://chartavisa.com/api/research/entry-cost), [latest wait times](https://chartavisa.com/api/research/us-visa-wait-times).
